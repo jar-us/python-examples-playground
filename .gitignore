@@ -36,7 +36,7 @@ ENV/
 .DS_Store
 
 # Exclude .env files but include example files
-!.env
+.env
 !.env.example
 !.env.default
 !.env.development
